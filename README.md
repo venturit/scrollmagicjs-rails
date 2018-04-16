@@ -24,7 +24,7 @@ Dependencies
 
 Add this to application.js.coffee
 
-#= require greensock/TweenMax.min
+#= require greensock/TweenMax.min  
 #= require jquery.scrollmagic
 
 
